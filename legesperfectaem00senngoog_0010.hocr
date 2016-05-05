@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./legesperfectaem00senngoog_0010.png"; bbox 0 0 3480 5602; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 308 2251 1330 2659">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 308 2251 1330 2659">
+     <span class='ocr_line' id='line_1_1' title="bbox 471 2251 1168 2362; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 471 2251 695 2360; x_wconf 83' lang='lat' dir='ltr'>LEGES</span> <span class='ocrx_word' id='word_1_2' title='bbox 752 2251 1168 2362; x_wconf 81' lang='lat' dir='ltr'><strong>PERFECTAE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 308 2541 1330 2659; baseline 0.002 -25"><span class='ocrx_word' id='word_1_3' title='bbox 308 2541 552 2637; x_wconf 88' lang='lat' dir='ltr'>MINUS</span> <span class='ocrx_word' id='word_1_4' title='bbox 606 2544 819 2659; x_wconf 85' lang='lat' dir='ltr'><strong>QUAM</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 874 2542 1330 2639; x_wconf 79' lang='lat' dir='ltr'><strong>PERFEGTAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 530 2837 1110 2936">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 530 2837 1110 2936">
+     <span class='ocr_line' id='line_1_3' title="bbox 530 2837 1110 2936; baseline -0.007 0"><span class='ocrx_word' id='word_1_6' title='bbox 530 2843 609 2936; x_wconf 84' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 666 2837 1110 2936; x_wconf 77' lang='lat' dir='ltr'><strong>IMPERFEGTAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1744 5602">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1744 5602">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1744 5602; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1744 5602; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
